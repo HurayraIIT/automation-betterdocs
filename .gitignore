@@ -1,5 +1,7 @@
 /venv/
 .idea/
+/Tests/.pytest_cache
+/Pages/.pytest_cache
 
 # Logs
 logs
